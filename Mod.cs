@@ -6,7 +6,7 @@ using System.Reflection;
 
 [assembly: AssemblyTitle("Foldable's Weapon Pack")]
 [assembly: AssemblyCompany("Foldable Mouse")]
-[assembly: AssemblyDescription("GET THAT FOLDABLE (Discord: QBAyXzP)")]
+[assembly: AssemblyDescription("GET THAT FOLDABLE")]
 [assembly: AssemblyVersion("1.0.0.2")]
 
 namespace DuckGame.FoldableMod
